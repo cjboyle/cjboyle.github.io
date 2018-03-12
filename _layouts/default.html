@@ -14,7 +14,7 @@
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
       {% for icon in site.social-icons %}
-        <a href="{{ icon.url }}">
+        <a class="social-icon" href="{{ icon.url }}">
           {% include {{ icon.class | prepend: 'social-icons/' | append: '.svg' }} %}
         </a>
       {% endfor %}
@@ -33,6 +33,10 @@
       </form>
       
       <style>
+        .social-icon {
+          width: 10%;
+          height: 10%;
+        }
 form.wj-contact input[type="text"], form.wj-contact textarea[type="text"] {
     width: 100%;
     vertical-align: middle;
