@@ -26,6 +26,7 @@
       {{ content }}
       
       <form class="wj-contact" action="https://formspree.io/{{site.email}}" method="POST">
+        <input type="text" name="name" placeholder="Name">
         <input type="text" name="email" placeholder="Email">
         <textarea type="text" name="content" rows="10" placeholder="Message"></textarea>
         <input type="hidden" name="_subject" value="Portfolio Contact Form Submission">
@@ -40,11 +41,10 @@ form.wj-contact input[type="text"], form.wj-contact textarea[type="text"] {
     margin-top: 0.25em;
     margin-bottom: 0.5em;
     padding: 0.75em;
-    font-family: monospace, sans-serif;
     font-weight: lighter;
     border-style: solid;
     border-color: #444;
-    outline-color: #2e83e6;
+    outline-color: #157878;
     border-width: 1px;
     border-radius: 3px;
     transition: box-shadow .2s ease;
@@ -52,7 +52,7 @@ form.wj-contact input[type="text"], form.wj-contact textarea[type="text"] {
 form.wj-contact input[type="submit"] {
     outline: none;
     color: white;
-    background-color: #2e83e6;
+    background-color: #157878;
     border-radius: 3px;
     padding: 0.5em;
     margin: 0.25em 0 0 0;
