@@ -3,3 +3,8 @@ title: Connor Boyle
 name: Connor Boyle
 email: connorboyle@sasktel.net
 description: Software Developer
+
+social-icons:
+ - title: LinkedIn
+   url: https://www.linkedin.com/in/connor-boyle-557a4b153/
+   class: linkedin
