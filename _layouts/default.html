@@ -10,13 +10,13 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <ul style="list-style-type:none; margin-top:0; top:0; position:fixed; width:100%; background-color:white; text-align:center">
-      <li><a href="#About-me">ABOUT ME</a></li>
-      <li><a href="#Skills">SKILLS</a></li>
-      <li><a href="#Projects">PROJECTS</a></li>
-      <li><a href="#Experience">EXPERIENCE</a></li>
-      <li><a href="#Education">EDUCATION</a></li>
-      <li><a href="#Contact">CONTACT</a></li>
+    <ul class="nav-bar" style="list-style-type:none; margin-top:0; top:0; position:fixed; width:100%; background-color:white; text-align:center">
+      <li class="nav-item"><a href="#About-me">ABOUT ME</a></li>
+      <li class="nav-item"><a href="#Skills">SKILLS</a></li>
+      <li class="nav-item"><a href="#Projects">PROJECTS</a></li>
+      <li class="nav-item"><a href="#Experience">EXPERIENCE</a></li>
+      <li class="nav-item"><a href="#Education">EDUCATION</a></li>
+      <li class="nav-item"><a href="#Contact">CONTACT</a></li>
     </ul>
     <section class="page-header">
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
@@ -46,11 +46,11 @@
           margin: 10px;
           opacity: 0.7;
         }
-        li {
+        .nav-item {
     float: left;
 }
 
-li a {
+.nav-item a {
     display: block;
     color: #159957;
     text-align: center;
@@ -59,7 +59,7 @@ li a {
 }
 
 /* Change the link color to #111 (black) on hover */
-li a:hover {
+.nav-item a:hover {
     background-color: #159957;
   color: white;
 }
