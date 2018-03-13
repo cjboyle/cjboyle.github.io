@@ -34,6 +34,12 @@ I am a smart ass from Regina, Saskatchewan
 
 ***
 # Education
+### Saskatchewan Polytechnic, Saskatoon, SK
+**Computer Systems Technology**\
+SEPTEMBER 2015 - MAY 2018
+### University of Saskatchewan, Saskatoon, SK
+**Computer Science**\
+SEPTEMBER 2013 - APRIL 2015
 
 
 ***
