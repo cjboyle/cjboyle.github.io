@@ -5,12 +5,12 @@ email: connorboyle@sasktel.net
 description: Software Developer
 
 social-icons:
+ - title: GitHub
+   url: https://github.com/cjboyle
+   class: github
  - title: LinkedIn
    url: https://www.linkedin.com/in/connor-boyle-557a4b153/
    class: linkedin
  - title: Twitter
    url: https://twitter.com/cjboyle_sk
    class: twitter
- - title: GitHub
-   url: https://github.com/cjboyle
-   class: github
