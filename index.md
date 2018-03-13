@@ -1,8 +1,8 @@
-# <a id="About-me"></a>About me
+# About me
 I am a smart ass from Regina, Saskatchewan
 
 ***
-# <a id="Skills"></a>Skills
+# Skills
 **Back Ends**
 - C#/.NET
 - C/C++
@@ -25,7 +25,7 @@ I am a smart ass from Regina, Saskatchewan
 - Android
 
 ***
-# <a id="Projects"></a>Projects
+# Projects
 
 
 ***
