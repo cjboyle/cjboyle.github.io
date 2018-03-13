@@ -1,4 +1,3 @@
-***
 # About me
 I am a smart ass from Regina, Saskatchewan
 
