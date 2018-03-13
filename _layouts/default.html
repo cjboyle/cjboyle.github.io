@@ -19,8 +19,8 @@
       <li class="nav-item"><a href="#Contact">CONTACT</a></li>
     </ul>
     <section class="page-header">
-      <h1 class="project-name" style="margin-top:20%;">{{ site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+      <h1 class="project-name" style="margin-top:5%;color:white;">{{ site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline" style="color:white;">{{ site.description | default: site.github.project_tagline }}</h2>
       {% for icon in site.social-icons %}
         <a class="social-icon" href="{{ icon.url }}">
           {% include {{ icon.class | prepend: 'social-icons/' | append: '.svg' }} %}
@@ -44,7 +44,7 @@
         .social-icon {
           fill: white;
           margin: 10px;
-          opacity: 0.7;
+          opacity: 1;
         }
         .nav-item {
     float: left;
@@ -60,7 +60,7 @@
 
 /* Change the link color to #111 (black) on hover */
 .nav-item a:hover {
-    background-color: #159957;
+    background-color: #157878;
     color: white;
     text-decoration: none;
 }
