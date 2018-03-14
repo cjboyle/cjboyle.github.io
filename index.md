@@ -37,18 +37,18 @@ I am a smart ass from Regina, Saskatchewan
 
 ***
 
-<div class="heading" style="padding-top:65px">
+<div class="heading" style="padding-top:65px;">
 
 # Projects
 
 </div>
 
 ***
-# <div class="heading" style="padding-top:65px"></div>Experience
+# <div class="heading" style="padding-top:65px;"></div>Experience
 
 
 ***
-# <div class="heading" style="padding-top:65px"></div>Education
+# <div class="heading" style="padding-top:65px;"></div>Education
 ### Saskatchewan Polytechnic, Saskatoon, SK
 **Computer Systems Technology**
 
@@ -60,7 +60,7 @@ SEPTEMBER 2013 - APRIL 2015
 
 
 ***
-# <div class="heading" style="padding-top:65px"></div>Contact
+# <div class="heading" style="padding-top:65px;"></div>Contact
 
 ## Welcome to GitHub Pages
 
