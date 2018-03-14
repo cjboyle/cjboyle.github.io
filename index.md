@@ -1,8 +1,17 @@
-# <div class="heading" style="padding-top:65px"></div>About me
+<div class="heading" style="padding-top:65px;">
+
+# About me
+
 I am a smart ass from Regina, Saskatchewan
 
+</div>
+
 ***
-# <div class="heading" style="padding-top:65px"></div>Skills
+
+<div class="heading" style="padding-top:65px;">
+
+# Skills
+ 
 **Back Ends**
 - C#/.NET
 - C/C++
@@ -24,9 +33,15 @@ I am a smart ass from Regina, Saskatchewan
 - Xamarin
 - Android
 
-***
-# <div class="heading" style="padding-top:65px"></div>Projects
+</div>
 
+***
+
+<div class="heading" style="padding-top:65px">
+
+# Projects
+
+</div>
 
 ***
 # <div class="heading" style="padding-top:65px"></div>Experience
