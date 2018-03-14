@@ -1,14 +1,13 @@
-<div class="heading" style="padding-top:65px;">
+<div class="heading" style="padding-top:65px;"></div>
 
 # About me
 
 I am a smart ass from Regina, Saskatchewan
 
-</div>
 
 ***
 
-<div class="heading" style="padding-top:65px;">
+<div class="heading" style="padding-top:65px;"></div>
 
 # Skills
  
@@ -33,15 +32,13 @@ I am a smart ass from Regina, Saskatchewan
 - Xamarin
 - Android
 
-</div>
 
 ***
 
-<div class="heading" style="padding-top:65px;">
+<div class="heading" style="padding-top:65px;"></div>
 
 # Projects
 
-</div>
 
 ***
 # <div class="heading" style="padding-top:65px;"></div>Experience
