@@ -10,13 +10,15 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <div class="nav-bar">
-      <a class="nav-item" href="#about-me">ABOUT ME</a>
-      <a class="nav-item" href="#skills">SKILLS</a>
-      <a class="nav-item" href="#projects">PROJECTS</a>
-      <a class="nav-item" href="#experience">EXPERIENCE</a>
-      <a class="nav-item" href="#education">EDUCATION</a>
-      <a class="nav-item" href="#contact">CONTACT</a>
+    <div style="width: 100%;">
+      <div class="nav-bar">
+        <a class="nav-item" href="#about-me">ABOUT ME</a>
+        <a class="nav-item" href="#skills">SKILLS</a>
+        <a class="nav-item" href="#projects">PROJECTS</a>
+        <a class="nav-item" href="#experience">EXPERIENCE</a>
+        <a class="nav-item" href="#education">EDUCATION</a>
+        <a class="nav-item" href="#contact">CONTACT</a>
+      </div>
     </div>
     <section class="page-header">
       <h1 class="project-name" style="margin-top:5%;color:white;">{{ site.title | default: site.github.repository_name }}</h1>
@@ -51,7 +53,6 @@
           margin-top: 0;
           top: 0;
           position: fixed;
-          width: 300%;
           background-color: white;
           text-align: center;
           overflow-x: auto;
