@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <div style="width: 100%; background-color: white;">
+    <div class="nav-wrapper">
       <div class="nav-bar">
         <a class="nav-item" href="#about-me">ABOUT ME</a>
         <a class="nav-item" href="#skills">SKILLS</a>
@@ -49,10 +49,15 @@
           opacity: 1;
         }
         
-        .nav-bar {
+        .nav-wrapper {
+          width: 100%;
+          background-color: white;
           margin-top: 0;
           top: 0;
           position: fixed;
+        }
+        
+        .nav-bar {
           background-color: white;
           text-align: center;
           overflow: auto;
