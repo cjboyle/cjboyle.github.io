@@ -1,4 +1,4 @@
-<div class="heading" style="padding-top:65px;"></div>
+<div class="heading" style="margin-top:65px;"></div>
 
 # About me
 
@@ -7,7 +7,7 @@ I am a smart ass from Regina, Saskatchewan
 
 ***
 
-<div class="heading" style="padding-top:65px;"></div>
+<div class="heading" style="margin-top:65px;"></div>
 
 # Skills
  
@@ -35,7 +35,7 @@ I am a smart ass from Regina, Saskatchewan
 
 ***
 
-<div class="heading" style="padding-top:65px;"></div>
+<div class="heading" style="margin-top:65px;"></div>
 
 # Projects
 
