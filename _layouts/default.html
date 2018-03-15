@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <ul class="nav-bar" style="list-style-type:none; margin-top:0; top:0; position:fixed; width:100%; background-color:white; text-align:center">
+    <ul class="nav-bar">
       <li class="nav-item"><a href="#about-me">ABOUT ME</a></li>
       <li class="nav-item"><a href="#skills">SKILLS</a></li>
       <li class="nav-item"><a href="#projects">PROJECTS</a></li>
@@ -46,6 +46,19 @@
           margin: 10px;
           opacity: 1;
         }
+        
+        .nav-bar {
+          list-style-type: none;
+          margin-top: 0;
+          top: 0;
+          position: fixed;
+          width: 100%;
+          background-color: white;
+          text-align: center;
+          overflow: auto;
+          white-space: nowrap;
+        }
+        
         .nav-item {
     float: left;
 }
