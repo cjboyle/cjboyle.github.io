@@ -5,7 +5,7 @@
 I am a software developer from Saskatoon, Saskatchewan. I am a passionate, self-driven, independent worker interested in developing and any project you can throw at me. In winter, I am an avid alpine skier. In summer, you will find me windsurfing and racing sailboats on most weekends. Please feel free to take a look around, and, if you have any questions, drop me a line using the [contact form](#contact-me) below.
 
 
-***
+
 
 <div id="my-skills" style="margin-bottom:65px;"></div>
 
@@ -19,7 +19,7 @@ I am a software developer from Saskatoon, Saskatchewan. I am a passionate, self-
 | PHP | | SQLite | |
 
 
-***
+
 
 <div id="my-projects" style="margin-bottom:65px;"></div>
 
@@ -43,7 +43,7 @@ This is a comprehensive Android which also implements a client interface for the
 This was second-year group project at Saskatchewan Polytechnic developing an online forms application in Microsoft ASP.NET Core. It is an application built for Cosmopolitan Industries to track prospective and existing program participants. We worked in an Agile, Test-Driven Development environment, created extensive documentation, and developed comprehensive unit tests.
 
 
-***
+
 
 <div id="my-education" style="margin-bottom:65px;"></div>
 
@@ -58,7 +58,7 @@ SEPTEMBER 2015 - MAY 2018
 SEPTEMBER 2013 - APRIL 2015
 
 
-***
+
 
 <div id="contact-me" style="margin-bottom:65px;"></div>
 
