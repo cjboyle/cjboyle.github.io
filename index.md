@@ -17,7 +17,7 @@ I am a smart ass from Regina, Saskatchewan
 - C/C++
 - PHP
 
-**Front Ends**
+**Web**
 - JavaScript
 - HTML
 - CSS
@@ -46,12 +46,12 @@ This is a JSON API data provider developed in ASP.NET Core for the space explora
 ### Elite Co-Pilot
 **Android, Java**
 
-This is a comprehensive Android which also implements a client interface for the above API. It includes various calculators, a notepad, and engineering blueprint information.
+This is a comprehensive Android which also implements a client interface for the above API. It includes various calculators, a notepad, and engineering blueprint information. As it is still in Alpha stages, it is not, as of yet, publicly available, though you may compile from [source](https://github.com/cjboyle/Elite-Tools).
 
 ### Cosmopolitan Industries: Participant Management System
 **ASP.NET Core MVC 5, C#, SQL Server, HTML, Bootstrap**
 
-This was second-year group project at Saskatchewan Polytechnic developing an online forms application in Microsoft ASP.NET Core. We worked in an Agile, Test-Driven Development environment, created extensive documentation, and developed comprehensive unit tests.
+This was second-year group project at Saskatchewan Polytechnic developing an online forms application in Microsoft ASP.NET Core. It is an application built for Cosmopolitan Industries to track prospective and existing program participants. We worked in an Agile, Test-Driven Development environment, created extensive documentation, and developed comprehensive unit tests.
 
 
 ***
