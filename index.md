@@ -38,7 +38,20 @@ I am a smart ass from Regina, Saskatchewan
 <div class="heading" style="margin-top:65px;"></div>
 
 # Projects
+### AspBehindThings
+**ASP.NET Core WebAPI 2, C#, PostgreSQL, HTML, Knockout.js, Bootstrap**
 
+This is a JSON API provider for the space exploration game *Elite: Dangerous*.
+
+### Elite Co-Pilot
+**Android, Java**
+
+This is a JSON API provider for the space exploration game *Elite: Dangerous*.
+
+### Cosmopolitan Industries: Participant Management System
+**ASP.NET Core Razor Pages, C#, MS SQL, HTML, Bootstrap**
+
+This is a JSON API provider for the space exploration game *Elite: Dangerous*.
 ***
 
 <div class="heading" style="padding-top:65px;"></div>
