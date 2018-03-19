@@ -2,7 +2,7 @@
 
 # About me
 
-I am a software developer from Saskatoon, Saskatchewan. I am a passionate, self-driven, independent worker interested in developing and any project you can throw at me. In winter, I am an avid alpine skier. In summer, you will find me windsurfing and racing sailboats on most weekends. Please feel free to take a look around, and, if you have any questions, drop me a line using the [contact form](#contact-me) below.
+I am a software developer from Saskatoon, Saskatchewan. I am a passionate, self-driven, independent worker interested in developing and any project you can throw at me. In winter, I am an avid alpine skier. In summer, you will find me windsurfing and racing sailboats on most weekends. Please feel free to take a look around, and, if you have any questions, please drop me a line using the [contact form](#contact-me) below.
 
 
 
