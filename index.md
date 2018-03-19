@@ -24,15 +24,18 @@ I am a software developer from Saskatoon, Saskatchewan. I am a passionate, self-
 <div id="my-projects" style="margin-bottom:65px;"></div>
 
 # Projects
+
 ### AspBehindThings
 **ASP.NET Core Web API 2, C#, PostgreSQL, HTML, Knockout.js, Bootstrap**
 
 This is a JSON API data provider developed in ASP.NET Core for the space exploration game *Elite: Dangerous*. It is designed to be highly queryable, with various multiple endpoints and many optional query parameters. Data is bulk imported daily from [EDDB](https://eddb.io) and monthly from [EDSM](https://www.edsm.net). Also included is a basic engineering materials search page.
 
+
 ### Elite Co-Pilot
 **Android, Java**
 
 This is a comprehensive Android which also implements a client interface for the above API. It includes various calculators, a notepad, and engineering blueprint information. As it is still in Alpha stages, it is not, as of yet, publicly available, though you may compile from [source](https://github.com/cjboyle/Elite-Tools).
+
 
 ### Cosmopolitan Industries: Participant Management System
 **ASP.NET Core MVC 5, C#, SQL Server, HTML, Bootstrap**
