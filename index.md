@@ -2,7 +2,7 @@
 
 # About me
 
-I am a smart ass from Regina, Saskatchewan
+I am a software developer from Saskatoon, Saskatchewan
 
 
 ***
@@ -26,11 +26,19 @@ I am a smart ass from Regina, Saskatchewan
 - Oracle
 - SQL Server
 - PostgreSQL
+- MySQL
 
 **Frameworks**
 - ASP.NET Core
 - Xamarin
 - Android
+
+| Back Ends | Web | Databases | Frameworks |
+| --- | --- | --- | --- |
+| C#/.NET | JavaScript | Oracle | ASP.NET Core |
+| Java | HTML | SQL Server | Xamarin |
+| C/C++ | CSS | PostgreSQL | Android |
+| PHP | | MySQL | |
 
 
 ***
