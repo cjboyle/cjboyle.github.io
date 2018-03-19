@@ -34,7 +34,7 @@ This is a JSON API data provider developed in ASP.NET Core for the space explora
 ### Elite Co-Pilot
 **Android, Java**
 
-This is a comprehensive Android which also implements a client interface for the above API. It includes various calculators, a notepad, and engineering blueprint information. As it is still in Alpha stages, it is not, as of yet, publicly available, though you may compile from [source](https://github.com/cjboyle/Elite-Tools).
+This is a comprehensive Android which also implements a client interface for the above API. It includes various calculators, a notepad, and engineering blueprint information relating to the video game *Elite: Dangerous*. As it is still in Alpha stages, it is not, as of yet, publicly available, though you may compile from [source](https://github.com/cjboyle/Elite-Tools).
 
 
 ### Cosmopolitan Industries: Participant Management System
