@@ -41,7 +41,7 @@ I am a smart ass from Regina, Saskatchewan
 ### AspBehindThings
 **ASP.NET Core Web API 2, C#, PostgreSQL, HTML, Knockout.js, Bootstrap**
 
-This is a JSON API data provider developed in ASP.NET Core for the space exploration game *Elite: Dangerous*. It is designed to be highly queryable, with various base endpoints. Data is bulk imported daily from [EDDB](https://eddb.io) and monthly from [EDSM](https://www.edsm.net). Also included is a basic example search page.
+This is a JSON API data provider developed in ASP.NET Core for the space exploration game *Elite: Dangerous*. It is designed to be highly queryable, with various multiple endpoints and many optional query parameters. Data is bulk imported daily from [EDDB](https://eddb.io) and monthly from [EDSM](https://www.edsm.net). Also included is a basic engineering materials search page.
 
 ### Elite Co-Pilot
 **Android, Java**
@@ -52,12 +52,6 @@ This is a comprehensive Android which also implements a client interface for the
 **ASP.NET Core MVC 5, C#, SQL Server, HTML, Bootstrap**
 
 This was second-year group project at Saskatchewan Polytechnic developing an online forms application in Microsoft ASP.NET Core. We worked in an Agile, Test-Driven Development environment, created extensive documentation, and developed comprehensive unit tests.
-
-***
-
-<div class="heading" style="padding-top:65px;"></div>
-
-# Experience
 
 
 ***
