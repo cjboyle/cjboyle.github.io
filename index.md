@@ -1,4 +1,4 @@
-<div class="heading" style="margin-top:65px;"></div>
+<div id="about" style="margin-top:65px;"></div>
 
 # About me
 
@@ -7,7 +7,7 @@ I am a smart ass from Regina, Saskatchewan
 
 ***
 
-<div class="heading" style="margin-top:65px;"></div>
+<div id="my-skills" style="margin-top:65px;"></div>
 
 # Skills
  
@@ -35,7 +35,7 @@ I am a smart ass from Regina, Saskatchewan
 
 ***
 
-<div class="heading" style="margin-top:65px;"></div>
+<div id="my-projects" style="margin-top:65px;"></div>
 
 # Projects
 ### AspBehindThings
@@ -56,7 +56,7 @@ This was second-year group project at Saskatchewan Polytechnic developing an onl
 
 ***
 
-<div class="heading" style="padding-top:65px;"></div>
+<div id="my-education" style="padding-top:65px;"></div>
 
 # Education
 ### Saskatchewan Polytechnic, Saskatoon, SK
@@ -71,6 +71,6 @@ SEPTEMBER 2013 - APRIL 2015
 
 ***
 
-<div class="heading" style="padding-top:65px;"></div>
+<div id="contact-me" style="padding-top:65px;"></div>
 
 # Contact
