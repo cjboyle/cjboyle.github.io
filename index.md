@@ -10,28 +10,6 @@ I am a software developer from Saskatoon, Saskatchewan
 <div id="my-skills" style="margin-bottom:65px;"></div>
 
 # Skills
- 
-**Back Ends**
-- C#/.NET
-- Java
-- C/C++
-- PHP
-
-**Web**
-- JavaScript
-- HTML
-- CSS
-
-**Databases**
-- Oracle
-- SQL Server
-- PostgreSQL
-- MySQL
-
-**Frameworks**
-- ASP.NET Core
-- Xamarin
-- Android
 
 | Back Ends | Web | Databases | Frameworks |
 | --- | --- | --- | --- |
